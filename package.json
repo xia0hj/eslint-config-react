@@ -1,0 +1,22 @@
+{
+  "name": "@xia0hj/eslint-config-react",
+  "version": "1.0.0",
+  "description": "My custom eslint config for react",
+  "main": "index.js",
+  "keywords": [],
+  "author": "xia0hj",
+  "license": "MIT",
+  "dependencies": {
+    "@xia0hj/eslint-config": "^1.0.1",
+    "eslint-plugin-react": "^7.31.11"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "url": "https://github.com/xia0hj/eslint-config-react"
+  },
+  "homepage": "https://github.com/xia0hj/eslint-config-react"
+}
